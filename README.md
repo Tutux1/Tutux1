@@ -12,10 +12,12 @@ Tutux1/Tutux1 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 --
-
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{King-Amda}/count.svg)
   <p align="center">
   <a href="httsp://github.com/Shahid-KLDM/LisaMwol">
     <img src="https://img.shields.io/github/repo-size/vishnu-memanakizhakathil/Tutu X1?color=green&label=Repo%20total%20size&style=plastic">
+
 <p align="center">
 <a href="https://github.com/Shahid-KLDM/followers"><img title="Followers" src="https://img.shields.io/github/followers/Shahid-KLDM?color=pink&style=flat-square"></a>
 <a href="https://github.com/Shahid-KLDM/LisaMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Shahid-KLDM/LisaMwol?color=pink&style=flat-square"></a>
@@ -32,8 +34,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://t.me/vishnuprasad62"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://github.com/vishnu-memanakizhakathil"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   
-</p>
-  
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar1601&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Manish"/></p></a><br>
 
 <div align="center">
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu-memanakizhakathil&show_icons=true&theme=nightowl" alt="vishnu-memanakizhakathil" /></p>
