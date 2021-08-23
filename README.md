@@ -7,6 +7,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+
 <!---
 Tutux1/Tutux1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -17,7 +22,6 @@ You can click the Preview link to take a look at your changes.
   <p align="center">
   <a href="httsp://github.com/Shahid-KLDM/LisaMwol">
     <img src="https://img.shields.io/github/repo-size/vishnu-memanakizhakathil/Tutu X1?color=green&label=Repo%20total%20size&style=plastic">
-
 <p align="center">
 <a href="https://github.com/Shahid-KLDM/followers"><img title="Followers" src="https://img.shields.io/github/followers/Shahid-KLDM?color=pink&style=flat-square"></a>
 <a href="https://github.com/Shahid-KLDM/LisaMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Shahid-KLDM/LisaMwol?color=pink&style=flat-square"></a>
